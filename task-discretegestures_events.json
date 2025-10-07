@@ -1,0 +1,32 @@
+{
+  "onset": {
+    "Description": "Event onset time",
+    "Units": "seconds"
+  },
+  "duration": {
+    "Description": "Event duration (0 for instantaneous gestures)",
+    "Units": "seconds"
+  },
+  "sample": {
+    "Description": "Event onset sample (at 2000 Hz)",
+    "Units": "samples"
+  },
+  "value": {
+    "Description": "Event type: gesture name or stage_start",
+    "Levels": {
+      "index_press": "Index finger press",
+      "index_release": "Index finger release",
+      "middle_press": "Middle finger press",
+      "middle_release": "Middle finger release",
+      "thumb_click": "Thumb tap/click",
+      "thumb_down": "Thumb swipe down",
+      "thumb_in": "Thumb swipe in",
+      "thumb_out": "Thumb swipe out",
+      "thumb_up": "Thumb swipe up",
+      "stage_start": "Stage/trial boundary marker"
+    }
+  },
+  "stage_name": {
+    "Description": "Stage name (for stage_start events only)"
+  }
+}

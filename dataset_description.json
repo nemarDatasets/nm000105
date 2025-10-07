@@ -1,0 +1,22 @@
+{
+  "Name": "FRL-DISCRETEGESTURES-EMG-BIDS",
+  "BIDSVersion": "1.11.0",
+  "License": "CC-BY-NC 4.0",
+  "Authors": [
+    "Seyed Yahya Shirazi",
+    "Reality Labs Research",
+    "Meta"
+  ],
+  "Acknowledgements": "Data collected by Meta Reality Labs",
+  "HowToAcknowledge": "Please cite: Kaifosh & Reardon et al. (2025) - A generic non-invasive neuromotor interface for human-computer interaction",
+  "Funding": [
+    "Meta Reality Labs"
+  ],
+  "DatasetDOI": "n/a",
+  "GeneratedBy": [
+    {
+      "Name": "EEG-BIDS",
+      "Version": "10.3"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+name	type	units	signal_electrode	reference
+EMG0	EMG	n/a	E0	bipolar
+EMG1	EMG	n/a	E1	bipolar
+EMG2	EMG	n/a	E2	bipolar
+EMG3	EMG	n/a	E3	bipolar
+EMG4	EMG	n/a	E4	bipolar
+EMG5	EMG	n/a	E5	bipolar
+EMG6	EMG	n/a	E6	bipolar
+EMG7	EMG	n/a	E7	bipolar
+EMG8	EMG	n/a	E8	bipolar
+EMG9	EMG	n/a	E9	bipolar
+EMG10	EMG	n/a	E10	bipolar
+EMG11	EMG	n/a	E11	bipolar
+EMG12	EMG	n/a	E12	bipolar
+EMG13	EMG	n/a	E13	bipolar
+EMG14	EMG	n/a	E14	bipolar
+EMG15	EMG	n/a	E15	bipolar
