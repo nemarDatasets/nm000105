@@ -1,5 +1,5 @@
 {
-    "Name": "FRL-DISCRETEGESTURES-EMG-BIDS",
+    "Name": "discrete_gestures: Discrete Hand Gesture Detection from EMG",
     "BIDSVersion": "1.11.0",
     "License": "CC-BY-NC 4.0",
     "Authors": [
