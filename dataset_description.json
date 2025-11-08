@@ -1,22 +1,25 @@
 {
-    "Name": "discrete_gestures: Discrete Hand Gesture Detection from EMG",
+    "Name": "FRL Discrete Gestures: Hand Gesture Recognition from Surface Electromyography",
     "BIDSVersion": "1.11.0",
     "License": "CC-BY-NC 4.0",
     "Authors": [
-        "Seyed Yahya Shirazi",
-        "Reality Labs Research",
-        "Meta"
+        "Patrick Kaifosh",
+        "Thomas R. Reardon",
+        "CTRL-labs at Reality Labs"
     ],
-    "Acknowledgements": "Data collected by Meta Reality Labs",
-    "HowToAcknowledge": "Please cite: Kaifosh & Reardon et al. (2025) - A generic non-invasive neuromotor interface for human-computer interaction",
-    "Funding": [
-        "Meta Reality Labs"
+    "Acknowledgements": "Data collected by Meta Reality Labs. BIDS conversion was done at SCCN, INC, UCSD.",
+    "HowToAcknowledge": "Please cite: Kaifosh, P., Reardon, T.R., & CTRL-labs at Reality Labs. (2025). A generic non-invasive neuromotor interface for human-computer interaction. Nature, 645(8081), 702-711. https://doi.org/10.1038/s41586-025-09255-w",
+    "Funding": "Meta Reality Labs",
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1038/s41586-025-09255-w"
     ],
     "DatasetDOI": "10.5281/zenodo.17283594",
+    "EthicsApprovals": "Approved by independent external Institutional Review Board (IRB). Participation was voluntary, participants provided informed consent, and data have been de-identified.",
     "GeneratedBy": [
         {
             "Name": "EEG-BIDS",
-            "Version": "10.3"
+            "Version": "10.3",
+            "Description": "BIDS conversion tool"
         }
     ]
 }
