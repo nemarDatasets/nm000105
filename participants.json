@@ -14,8 +14,8 @@
       "o": "other"
     }
   },
-  "hand": {
-    "Description": "Dominant hand (all recordings on dominant wrist)",
+  "handedness": {
+    "Description": "Dominant handedness (all recordings on dominant wrist)",
     "Levels": {
       "r": "right",
       "l": "left",
