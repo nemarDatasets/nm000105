@@ -1,0 +1,25 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier"
+  },
+  "age": {
+    "Description": "Participant age",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Participant sex",
+    "Levels": {
+      "m": "male",
+      "f": "female",
+      "o": "other"
+    }
+  },
+  "hand": {
+    "Description": "Dominant hand (all recordings on dominant wrist)",
+    "Levels": {
+      "r": "right",
+      "l": "left",
+      "a": "ambidextrous"
+    }
+  }
+}

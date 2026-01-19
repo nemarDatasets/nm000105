@@ -1,0 +1,5 @@
+{
+  "EMGCoordinateUnits": "percent",
+  "EMGCoordinateSystem": "Other",
+  "EMGCoordinateSystemDescription": "Dominant wrist (right-handed coordinate system): X: USP  RSP (0-100%); Y: Perpendicular (0-100%); Z: Radial offset (10%). RSP: Radial Styloid Process; USP: Ulnar Styloid Process."
+}

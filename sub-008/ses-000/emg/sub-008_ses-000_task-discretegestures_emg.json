@@ -1,0 +1,31 @@
+{
+  "InstitutionName": "Meta Reality Labs",
+  "InstitutionAddress": "New York, NY, USA",
+  "InstitutionalDepartmentName": "Reality Labs Research",
+  "TaskDescription": "Participants performed 9 discrete hand gestures (index/middle press/release, thumb click, thumb swipes) with sEMG recorded from dominant wrist.",
+  "Instructions": "Perform the prompted gesture when the prompt reaches the indicator line. Hold gestures until the prompt ends. Complete null stages as instructed.",
+  "CogAtlasID": "n/a",
+  "CogPOID": "n/a",
+  "DeviceSerialNumber": "n/a",
+  "EMGChannelCount": 16,
+  "PowerLineFrequency": 60,
+  "HardwareFilters": {
+    "Highpass": {
+      "CutoffHz": 20
+    },
+    "Lowpass": {
+      "CutoffHz": 850
+    }
+  },
+  "SoftwareFilters": "n/a",
+  "Manufacturer": "Meta Reality Labs",
+  "ManufacturersModelName": "sEMG-RD",
+  "SoftwareVersions": "n/a",
+  "RecordingType": "continuous",
+  "RecordingDuration": 2248.952,
+  "EpochLength": "n/a",
+  "TaskName": "discretegestures",
+  "EMGReference": "common",
+  "SamplingFrequency": 2000,
+  "EMGPlacementScheme": "Other"
+}
